@@ -4,3 +4,6 @@ This repository contains the links to the repositories related to the research p
 
 - Research activity report
   - [VeriOSS-research-report](https://github.com/FrancescoMucci/VeriOSS-research-report)
+  
+- Master's thesis
+  - [VeriOSS-thesis](https://github.com/FrancescoMucci/VeriOSS-thesis)
