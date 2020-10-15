@@ -8,5 +8,8 @@ This repository contains links to the repositories related to the research proje
 - Challenge-reward solidity smart contract
   - [VeriOSS-challenge-reward](https://github.com/FrancescoMucci/VeriOSS-challenge-reward)
   
+- Sequence, class and state diagrams
+  - [VeriOSS-diagrams](https://github.com/FrancescoMucci/VeriOSS-diagrams)
+  
 - Master's thesis
   - [VeriOSS-thesis](https://github.com/FrancescoMucci/VeriOSS-thesis)
