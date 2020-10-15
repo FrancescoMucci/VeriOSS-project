@@ -7,3 +7,6 @@ This repository contains the links to the repositories related to the research p
   
 - Master's thesis
   - [VeriOSS-thesis](https://github.com/FrancescoMucci/VeriOSS-thesis)
+  
+- Challenge-reward solidity smart contract
+  - [VeriOSS-challenge-reward](https://github.com/FrancescoMucci/VeriOSS-challenge-reward)
