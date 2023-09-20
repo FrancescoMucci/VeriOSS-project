@@ -9,7 +9,7 @@ The goal of this research grant is to design and develop Solidity smart contract
 
 - Final work done for my master's thesis:
   - Master's thesis: [VeriOSS-thesis](https://github.com/FrancescoMucci/VeriOSS-thesis);
-  - Challenge-reward solidity smart contract: [VeriOSS-challenge-reward](https://github.com/FrancescoMucci/VeriOSS-challenge-reward);
+  - Challenge-reward Solidity smart contract: [VeriOSS-challenge-reward](https://github.com/FrancescoMucci/VeriOSS-challenge-reward);
   - Sequence, class and state diagrams: [VeriOSS-diagrams](https://github.com/FrancescoMucci/VeriOSS-diagrams).
 
 For further information regarding the VeriOSS project, please refer to the official page: https://lillo.github.io/verioss/.
